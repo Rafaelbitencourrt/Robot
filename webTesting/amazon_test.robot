@@ -38,7 +38,7 @@ Caso de Teste 03 - Adicionar Produto no Carrinho
     Adicionar o produto "Console Xbox Series S" no carrinho
     # Verificar se o produto "Console Xbox Series S" foi adicionado com sucesso
  
-# Caso de Teste 04 - Remover Produto do Carrinho
+# Caso de Teste 04 - Remover atendimento do
 #     [Documentation]    Esse teste verifica a remoção de um produto no carrinho de compras
 #     [Tags]             remover_carrinho
 #     Acessar a home page do site Amazon.com.br
@@ -46,6 +46,6 @@ Caso de Teste 03 - Adicionar Produto no Carrinho
 #     Clicar no botão de pesquisa
 #     Verificar o resultado de pesquisa, listando o produto "Console Xbox Series S"
 #     Adicionar o produto "Console Xbox Series S" no carrinho
-    # Verificar se o produto "Console Xbox Series S" foi adicionado com sucesso
-    # Remover o produto "Console Xbox Series S" do carrinho
-    # Verificar se o carrinho fica vazio
+#     Verificar se o produto "Console Xbox Series S" foi adicionado com sucesso
+#     Remover o produto "Console Xbox Series S" do carrinho
+#     Verificar se o carrinho fica vazio
